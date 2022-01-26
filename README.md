@@ -35,7 +35,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
 ```dart
-// tools_I_use organized
+// About me
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Python", "Dart", "C++", "C", "PHP", "Javascript" },
@@ -48,9 +48,10 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/kawisor/kawisor/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter**. <img width="15%" align="right" alt="Github Image" src="https://github.com/kawisor/kawisor/blob/main/images/github.gif?raw=true" /><br>
-- <img src="https://github.com/kawisor/kawisor/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/kawisor/kawisor/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **New projects, Science Fiction, or anything about business**. <br>
+-  <img alt="GIF" src="https://github.com/kawisor/kawisor/blob/main/images/developer.gif" width="25" /> &nbsp; I’m currently learning **Solidity**. <img width="15%" align="right" alt="Github Image" src="https://github.com/kawisor/kawisor/blob/main/images/github.gif?raw=true" /><br>
+- <img src="https://github.com/kawisor/kawisor/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like petting **Cats**. <br>
+- <img src="https://github.com/kawisor/kawisor/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **New projects, How to prepare coffee, or anything about Business**. <br>
+- <img src="https://github.com/kawisor/kawisor/blob/main/images/music.gif?raw=true" width="25" />&nbsp;&nbsp; Keep **Coding**. <br>
 
 <div align="center" >
 
