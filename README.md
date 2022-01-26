@@ -5,9 +5,7 @@
   
 <p><strong>Hi, I'm Cristian Challgua
 <br>A Bolivian Software Developer 
-<br><br> </strong></p>
-
-<br>
+<br>CEO and Founder of <a href='http://bambasoft.com/' target="_blank">Bambasoft</a></strong></p>
 </div>
 
 <hr></hr>
@@ -50,10 +48,9 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/kawisor/kawisor/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter**. <img width="15%" align="right" alt="Github Image" src="https://github.com/kawisor/kawisor/blob/main/images/linux_rounded.gif?raw=true" /><br>
+-  <img alt="GIF" src="https://github.com/kawisor/kawisor/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter**. <img width="15%" align="right" alt="Github Image" src="https://github.com/kawisor/kawisor/blob/main/images/github.gif?raw=true" /><br>
 - <img src="https://github.com/kawisor/kawisor/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/kawisor/kawisor/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **New projects, Science Fiction, or anything about business**. <br>
-**<br>
 
 <div align="center" >
 
