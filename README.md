@@ -48,10 +48,10 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/kawisor/kawisor/blob/main/images/developer.gif" width="25" /> &nbsp; I’m currently learning **Solidity**. <img width="15%" align="right" alt="Github Image" src="https://github.com/kawisor/kawisor/blob/main/images/github.gif?raw=true" /><br>
+-  <img alt="GIF" src="https://github.com/kawisor/kawisor/blob/main/images/dev.gif" width="25" /> &nbsp; I’m currently learning **Solidity**. <img width="15%" align="right" alt="Github Image" src="https://github.com/kawisor/kawisor/blob/main/images/github.gif?raw=true" /><br>
 - <img src="https://github.com/kawisor/kawisor/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like petting **Cats**. <br>
 - <img src="https://github.com/kawisor/kawisor/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **New projects, How to prepare coffee, or anything about Business**. <br>
-- <img src="https://github.com/kawisor/kawisor/blob/main/images/music.gif?raw=true" width="25" />&nbsp;&nbsp; Keep **Coding**. <br>
+- <img src="https://github.com/kawisor/kawisor/blob/main/images/music.gif?raw=true" width="20" />&nbsp;&nbsp; Keep **Coding**. <br>
 
 <div align="center" >
 
