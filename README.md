@@ -3,7 +3,7 @@
 <img src="https://github.com/kawisor/kawisor/blob/main/images/coding.gif?raw=true" href="https://github.com/kawisor" alt="Hello world" width="625"/> <br>
  
   
-<p><strong>Hi, I'm Cristian Challgua
+<p><strong>Hi, I'm the kawisor
 <br>A Bolivian Software Developer 
 <br>CEO and Founder of <a href='http://bambasoft.com/' target="_blank">Bambasoft</a></strong></p>
 </div>
