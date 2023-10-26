@@ -3,7 +3,7 @@
 <img src="https://github.com/challgua/challgua/blob/main/images/coding.gif?raw=true" href="https://github.com/challgua" alt="Hello world" width="625"/> <br>
  
   
-<p><strong>Hi there, I'm Cristian
+<p><strong>Hi there, I'm Challgua
 <br>A Bolivian Software Developer 
 <br>Founder of <a href='http://bambasoft.com/' target="_blank">Bambasoft</a></strong></p>
 </div>
