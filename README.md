@@ -1,11 +1,11 @@
 <div align="center" width="50">
 
-<img src="https://github.com/kawisor/kawisor/blob/main/images/coding.gif?raw=true" href="https://github.com/kawisor" alt="Hello world" width="625"/> <br>
+<img src="https://github.com/challgua/challgua/blob/main/images/coding.gif?raw=true" href="https://github.com/challgua" alt="Hello world" width="625"/> <br>
  
   
-<p><strong>Hi, I'm the kawisor
+<p><strong>Hi there, I'm Cristian
 <br>A Bolivian Software Developer 
-<br>CEO and Founder of <a href='http://bambasoft.com/' target="_blank">Bambasoft</a></strong></p>
+<br>Founder of <a href='http://bambasoft.com/' target="_blank">Bambasoft</a></strong></p>
 </div>
 
 <hr></hr>
@@ -38,20 +38,20 @@
 // About me
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Python", "Dart", "C++", "C", "PHP", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "SQL" },
-    "Database" : { "MySQL", "Sqlite" },
+    "ProgramingLanguages" : { "PHP", "C", "Python", "Javascript" },
+    "OtherLanguages" : { "Bash", "Json", "SQL" },
+    "Database" : { "MySQL", "Sqlite", "MariaDB", "PostgreSQL" },
     "Editors" : { "Vscode", "Neovim", "Vim" },
-    "Platforms" : { "GNU/Linux", "MacOS" },
-    "OtherTools" : { "Git", "Photoshop", "Illustrator", "Lightroom" }
+    "OS" : { "GNU/Linux", "MacOS" },
+    "OtherTools" : { "Git", "XDebug", "Spotify", "AWS" }
   };
 }
 ```
 
--  <img alt="GIF" src="https://github.com/kawisor/kawisor/blob/main/images/dev.gif" width="25" /> &nbsp; I’m currently learning **Solidity**. <img width="15%" align="right" alt="Github Image" src="https://github.com/kawisor/kawisor/blob/main/images/github.gif?raw=true" /><br>
-- <img src="https://github.com/kawisor/kawisor/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like petting **Cats**. <br>
-- <img src="https://github.com/kawisor/kawisor/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **New projects, How to prepare coffee, or anything about Business**. <br>
-- <img src="https://github.com/kawisor/kawisor/blob/main/images/music.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Keep **Coding**. <br>
+-  <img alt="GIF" src="https://github.com/challgua/challgua/blob/main/images/dev.gif" width="25" /> &nbsp; I’m currently learning **Solidity**. <img width="15%" align="right" alt="Github Image" src="https://github.com/challgua/challgua/blob/main/images/github.gif?raw=true" /><br>
+- <img src="https://github.com/challgua/challgua/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like petting **Cats**. <br>
+- <img src="https://github.com/challgua/challgua/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **New projects, how to prepare coffee, or anything about coding**. <br>
+- <img src="https://github.com/challgua/challgua/blob/main/images/music.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **Debugging** while you sleep. <br>
 
 <div align="center" >
 
